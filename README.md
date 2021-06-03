@@ -12,6 +12,9 @@ Sleep Sounds can help you:
 
 <table><tr>
 <td><img src="https://github.com/oguncan/RelaxAndSleep/blob/master/relax1.png" width="50%"/> </td>
-<td><img src="https://github.com/oguncan/RelaxAndSleep/blob/master/relax1.png" width="50%"/></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://github.com/oguncan/RelaxAndSleep/blob/master/relax2.png" width="50%"/> </td>
 </tr></table>
 
