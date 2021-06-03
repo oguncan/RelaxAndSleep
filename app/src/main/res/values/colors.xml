@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme COLORS -->
+
+    <color name="color_blue">#093552</color>
+    <color name="color_purple">#5d1052</color>
+    <color name="color_blue_1">#181a40</color>
+    <color name="color_purple_1">#481650</color>
+    <color name="color_blue_3">#0e4e64</color>
+    <color name="color_blue_4">#1d5b70</color>
+    <color name="color_blue_5">#4290ac</color>
+    <color name="color_7">#349cc4</color>
+    <color name="color_blue_purple">#6049a2</color>
+    <color name="color_blue_6">#090e68</color>
+    <color name="color_8">#d59f36</color>
+    <color name="color_9">#6d7580</color>
+    <color name="color_two_light_gray">#edf1f6</color>
+
+    <color name="colorPrimary">@color/color_blue_6</color>
+    <color name="colorPrimaryDark">@color/color_blue_6</color>
+    <color name="colorAccent">@color/color_blue_6</color>
+
+    <color name="light_gray">#edf1f6</color>
+    <color name="light_gray_3">#8f94a7</color>
+    <color name="light_gray_2">#CDD1D5</color>
+
+
+
+</resources>
